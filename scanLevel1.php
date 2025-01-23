@@ -1,12 +1,12 @@
 <?php
-header('Content-Type: application/json'); //response to be returned as JSON
+header('Content-Type: application/json'); 
 
-$directory = './Level1/'; //target folder
+$directory = './Level1/'; 
 $files = scandir($directory);
 $result = array();
 
 foreach ($files as $file) {
-    if ($file != '.' && $file != '..' && !is_dir($directory . $file)) { //. is for current dir & .. is for sub dirs (we exclude both)
+    if ($file != '.' && $file != '..' && !is_dir($directory . $file)) { 
         $result[] = $file;
     }
 }
