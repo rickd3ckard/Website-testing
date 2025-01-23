@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('PHP/scanLevel1.php')
+    fetch('scanLevel1.php')
         .then(response => response.json())
         .then(data => {
             const fileList = document.getElementById('file-list');
