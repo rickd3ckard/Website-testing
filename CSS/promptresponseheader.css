@@ -1,0 +1,22 @@
+.prompt-response-box {
+    padding-bottom: 25px;
+    box-sizing: border-box;  
+}
+
+.prompt-response-box .heading {
+    font-size: 32px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: rgb(44, 62, 80);
+    display: flex;
+    margin-bottom: 25px;   
+}
+
+.prompt-response-box .content {
+    font-size: 16px;
+    font-family: Roboto;
+    color: rgb(44, 62, 80);
+    margin: 0px;
+    display: block;
+}
+

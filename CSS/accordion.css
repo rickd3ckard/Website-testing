@@ -1,0 +1,74 @@
+﻿.accordion * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 62, 80);
+}
+
+.accordion .accordion-item {
+    position: relative;
+    margin: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+}
+
+.accordion .accordion-item .accordion-title {
+    position: relative;
+    padding: 20px;
+    background-color: rgb(242,243,244);
+    cursor: pointer;
+    height: 60px;
+}
+
+.accordion .accordion-item .accordion-title h1,
+.accordion .accordion-item .accordion-title h2,
+.accordion .accordion-item .accordion-title h3 {
+    color: rgb(44, 62, 80);
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.accordion .accordion-item .accordion-title::before {
+    content: "⏷";
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-60%);
+    font-size: 1.5em;
+}
+
+.accordion .accordion-item .accordion-content {
+    position: relative;
+    background-color: rgb(242,243,244);
+    height: 0px;
+    overflow: hidden;
+    transition: 0.5s;
+    text-align: justify;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.accordion .accordion-item.active .accordion-content {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+@media (max-width: 1279px) {
+    .accordion .accordion-item {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}
+
+@media (max-width: 450px) {
+    .accordion .accordion-item .accordion-title {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,832 @@
+{
+  "header": {
+    "logo": "allahwakbar.ir",
+    "anchors": [
+      {
+        "text": "Optimisation SEO",
+        "href": "home"
+      },
+      {
+        "text": "Modèle rentable",
+        "href": "about"
+      },
+      {
+        "text": "Marché belge",
+        "href": "contact"
+      }
+    ],
+    "cta": {
+      "text": "Boostez mon trafic",
+      "href": "#get-started"
+    }
+  },
+  "content": [
+    {
+      "type": "promptresponseheader",
+      "heading": "Optimisez votre SEO en Province de Namur efficacement",
+      "content": "Prêt à booster votre visibilité en ligne ?",
+      "textjustification": "Left"
+    },
+    {
+      "type": "paragraph",
+      "heading": "",
+      "icon": "IMAGES\\uxwing-svg-icon-editor (2).png",
+      "headinglevel": 1,
+      "paragraphcontent": [
+        {
+          "type": "list",
+          "elements": [
+            "Optimisation SEO ciblée en Province de Namur",
+            "Réponse rapide à votre formulaire",
+            "Résultats mesurables et rapides"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Prêt pour plus de visibilité ? Remplissez vite le formulaire !"
+        }
+      ],
+      "level": 0,
+      "paragraphimage": {
+        "path": "",
+        "justification": ""
+      }
+    },
+    {
+      "type": "image",
+      "path": "IMAGES\\uxwing-svg-icon-editor (4).png"
+    },
+    {
+      "type": "form",
+      "heading": "Click the formm!",
+      "cta": "Give me your money!!",
+      "pages": [
+        {
+          "columns": [
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Street1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street"
+                },
+                {
+                  "type": "text",
+                  "name": "city1",
+                  "autocomplete": "city",
+                  "placeholder": "Votre ville / Province",
+                  "label": "Ville / Province"
+                },
+                {
+                  "type": "text",
+                  "name": "phonenumber1",
+                  "autocomplete": "tel",
+                  "placeholder": "Votre numéro de téléphonne",
+                  "label": "Téléphonne"
+                }
+              ]
+            },
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "housenumber1",
+                  "autocomplete": "housenumber",
+                  "placeholder": "Numéro de maison",
+                  "label": "Votre numéro de maison"
+                },
+                {
+                  "type": "text",
+                  "name": "zipcode1",
+                  "autocomplete": "postal-code",
+                  "placeholder": "Votre code postal",
+                  "label": "Code postal"
+                },
+                {
+                  "type": "text",
+                  "name": "email1",
+                  "autocomplete": "email",
+                  "placeholder": "Votre e-mail",
+                  "label": "E-mail"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Streetx1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streety1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streetz1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                }
+              ]
+            },
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Streeat1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streebt1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streect1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Streetd1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Optimisez efficacement votre référencement SEO en Province de Namur.",
+      "content": "Améliorez votre visibilité en ligne ! {Experts en SEO en Province de Namur}, nous propulsons votre site en tête des recherches pour attirer plus de clients.",
+      "headinglevel": 2,
+      "textjustification": "Center"
+    },
+    {
+      "type": "itemlist",
+      "headinglevel": 3,
+      "items": [
+        {
+          "image": "IMAGES\\Problem 1.png",
+          "heading": "Trafic faible",
+          "text": "Votre site peine à attirer des visiteurs ? "
+        },
+        {
+          "image": "IMAGES\\Problem 2.png",
+          "heading": "Contenu pauvre",
+          "text": "Le contenu de votre site manque-t-il de substance ?"
+        },
+        {
+          "image": "IMAGES\\Problem 3.png",
+          "heading": "Balises erronées",
+          "text": "Vos balises sont-elles mal configurées ?"
+        },
+        {
+          "image": "IMAGES\\Problem 4.png",
+          "heading": "Mots-clés faibles",
+          "text": "Strugglez-vous à choisir les bons mots-clés ?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Boostez votre SEO avec allahwakbar.ir en Province de Namur!",
+      "icon": "",
+      "headinglevel": 2,
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Vous {rencontrez un trafic faible sur votre site}? Notre entreprise basée en Province de Namur est experte en {SEO} et peut {transformer votre visibilité en ligne}. En remplissant simplement un formulaire, nous analyserons vos {besoins spécifiques} pour {booster votre présence sur le web}."
+        },
+        {
+          "type": "text",
+          "text": "Votre {contenu semble insuffisant ou peu convaincant}? Ne vous inquiétez pas, nous sommes là pour {enrichir et optimiser vos textes}. Avec des {balises corrigées} et un {contenu de qualité}, vous verrez votre site grimper dans les résultats de recherche, captant ainsi l'attention de votre {clientèle cible} en Province de Namur."
+        },
+        {
+          "type": "text",
+          "text": "Enfin, nous améliorerons vos {mots-clés, essentiels pour une stratégie SEO efficace}. Oubliez les mots-clés faibles qui vous retiennent en bas des pages de résultats; notre équipe vous aidera à choisir des {termes puissants} qui feront décoller votre trafic. {Prêts pour le changement}? {Contactez-nous}!"
+        }
+      ],
+      "level": 0,
+      "bottomgap": 25,
+      "paragraphimage": {
+        "path": "",
+        "justification": ""
+      }
+    },
+    {
+      "type": "cta",
+      "cta": "Boostez mon trafic",
+      "href": "ref"
+    },
+    {
+      "type": "image",
+      "path": "IMAGES\\Advantage Header Image.png"
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Pourquoi choisir notre SEO en Province de Namur ?",
+      "content": "",
+      "textjustification": "Center",
+      "headinglevel": 2
+    },
+    {
+      "type": "paragraph",
+      "heading": "Améliorez votre visibilité rapidement",
+      "icon": "",
+      "headinglevel": 3,
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Souhaitez-vous {booster votre présence en ligne} en peu de temps? Notre expertise en {optimisation SEO} en Province de Namur vous permet d'accroître rapidement votre {visibilité sur le web}. Grâce à des stratégies ciblées et adaptées à votre secteur, nous vous aidons à {monter dans les classements de recherche}, attirant ainsi plus de {trafic qualifié} vers votre site."
+        }
+      ],
+      "level": 0,
+      "bottomgap": 30,
+      "paragraphimage": {
+        "path": "IMAGES\\Advantage Image 1.png",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": "Service personnalisé en Province de Namur",
+      "icon": "",
+      "headinglevel": 3,
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Êtes-vous à la {recherche d'un service SEO} qui comprend les spécificités du marché belge? Nous offrons une {approche personnalisée}, où chaque stratégie est spécifiquement conçue pour répondre aux besoins de nos clients belges. Cette personnalisation permet d'atteindre des {résultats plus efficaces} et adaptés à votre contexte local."
+        }
+      ],
+      "level": 0,
+      "bottomgap": 30,
+      "paragraphimage": {
+        "path": "IMAGES\\Advantage Image 2.png",
+        "justification": "Right"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": "Contact et suivi facilités",
+      "icon": "",
+      "headinglevel": 3,
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Vous désirez un contact direct et un {suivi efficace} pour votre projet SEO? Avec notre service en Province de Namur, nous garantissons une {communication fluide} et une {disponibilité constante}. Remplissez simplement notre formulaire en ligne et nous nous engageons à vous recontacter rapidement pour débuter un {accompagnement sur mesure}."
+        }
+      ],
+      "level": 0,
+      "bottomgap": 30,
+      "paragraphimage": {
+        "path": "IMAGES\\Advantage Image 3.png",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Comment économiser grâce à notre SEO en Province de Namur?",
+      "content": "Optimiser votre présence en ligne avec notre expertise SEO en Province de Namur peut transformer significativement vos dépenses en investissements rentables. Imaginez réduire vos coûts de publicité grâce à une visibilité accrue sur les moteurs de recherche, où être bien classé vous attire des clients sans frais continus. De plus, en affinant votre stratégie numérique, vous minimiserez le besoin d'investissements dispendieux dans des campagnes marketing moins efficaces, tout en améliorant l'engagement client grâce à une expérience utilisateur optimisée. Enfin, en ciblant précisément votre audience grâce à des techniques de SEO localisées, vous évitez les dépenses superflues et concentrez vos ressources là où elles comptent vraiment. Chez nous, économiser ne signifie pas seulement réduire les coûts, mais investir intelligemment pour un retour maximal.",
+      "textjustification": "Center",
+      "headinglevel": 2
+    },
+    {
+      "type": "accordion",
+      "headinglevel": 3,
+      "accordionitems": [
+        {
+          "title": "Réduction des coûts publicitaires par visibilité",
+          "content": "En optimisant votre SEO avec notre expertise en Province de Namur, vous réduisez substantiellement vos dépenses en publicité. Une meilleure {visibilité organique} sur les moteurs de recherche diminue le besoin d'{investir massivement dans les annonces payantes}. Votre site gagnant en {visibilité naturelle}, attire plus efficacement les {visiteurs ciblés}. Cela se traduit par des économies significatives en publicité tout en augmentant votre {trafic qualifié}, essentiel pour une {croissance durable} de votre entreprise."
+        },
+        {
+          "title": "Optimisation de l'expérience utilisateur augmente engagement",
+          "content": "Basée en Province de Namur, notre entreprise garantit une {optimisation SEO efficace} visant à {augmenter significativement l'engagement des utilisateurs}. Ce renforcement de l'interaction n'est pas anodin : il se traduit directement par une {meilleure conversion des visiteurs en clients payants}. Autrement dit, moins d'investissement dans des stratégies marketing coûteuses sans retour mesurable. En simplifiant votre approche et en ciblant efficacement, vous économisez des {ressources précieuses} tout en {accroissant votre chiffre d'affaires}. Laissez-nous transformer votre présence en ligne pour un {retour sur investissement optimal}."
+        },
+        {
+          "title": "Ciblage précis réduit les dépenses superflues",
+          "content": "Optimiser votre référencement avec notre entreprise en {Province de Namur} permet de cibler de manière précise votre audience. Ce {ciblage} affiné évite de dépenser inutilement dans des stratégies marketing générales qui ne répondent pas spécifiquement à vos besoins. En concentrant vos ressources uniquement sur les segments {pertinents}, vous réduisez les coûts superflus tout en augmentant l'efficacité de vos actions publicitaires. C'est une approche {rentable} qui transforme chaque euro investi en un {potentiel de retour sur investissement plus élevé}."
+        },
+        {
+          "title": "Stratégie numérique affinée limite investissements dispendieux",
+          "content": "En Province de Namur, notre entreprise d'{optimisation SEO} aide nos clients à économiser significativement en peaufinant leur {stratégie numérique}. Cette approche sur mesure permet d'éviter des investissements coûteux dans des tactiques de marketing digital moins efficaces. En ciblant précisément les actions les {plus rentables} pour améliorer le {référencement} de votre site, nous maximisons votre {retour sur investissement} tout en minimisant les dépenses superflues. Remplissez notre formulaire pour bénéficier d'une consultation rapide et commencez à {optimiser vos ressources} dès aujourd'hui."
+        }
+      ]
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Découvrez comment démarrer en quelques étapes simples ?",
+      "content": "Bienvenue! Pour commencer à utiliser notre produit, {suivez simplement ces étapes faciles}: {créez votre compte}, {personnalisez vos préférences} et {lancez-vous}. Notre interface intuitive vous guidera à chaque étape. Découvrez la {facilité d'utilisation} dès maintenant!",
+      "textjustification": "Center",
+      "headinglevel": 2
+    },
+    {
+      "type": "itemlist",
+      "headinglevel": 3,
+      "items": [
+        {
+          "image": "IMAGES\\Step 1.png",
+          "heading": "Remplir formulaire",
+          "text": "Commencez par saisir vos infos en ligne."
+        },
+        {
+          "image": "IMAGES\\Step 2.png",
+          "heading": "Nous contactons",
+          "text": "Nous vous appelons pour fixer un plan."
+        },
+        {
+          "image": "IMAGES\\Step 3.png",
+          "heading": "Début optimisation",
+          "text": "L'optimisation de votre site démarre."
+        }
+      ]
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Optimisation SEO en Province de Namur : zéro tracas!",
+      "content": "",
+      "textjustification": "Center",
+      "headinglevel": 2
+    },
+    {
+      "type": "paragraph",
+      "heading": "",
+      "headinglevel": 0,
+      "icon": "IMAGES\\Capture d’écran 2024-11-07 151707.png",
+      "paragraphcontent": [
+        {
+          "type": "list",
+          "elements": [
+            "Analyse manuelle du marché cible",
+            "Recherche des mots-clés pertinents",
+            "Étude compétitive des concurrents",
+            "Optimisation technique du site web",
+            "Création de contenu optimisé SEO",
+            "Gestion des backlinks",
+            "Suivi des performances SEO",
+            "Mise à jour constante des algorithmes",
+            "Formation en SEO",
+            "Surveillance des pénalités Google"
+          ]
+        }
+      ],
+      "level": 0,
+      "bottomgap": 50,
+      "listscalefactor": 1.3,
+      "paragraphimage": {
+        "path": "IMAGES\\Avoided Step Image.png",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": "Prêt à dominer le web en Province de Namur ? Boostez votre trafic dès maintenant !",
+      "headinglevel": 2,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Envie de dominer Google en Province de Namur ? Remplissez notre formulaire et boostez votre trafic maintenant !"
+        },
+        {
+          "type": "text",
+          "text": "Basés en {Province de Namur}, nous nous concentrons particulièrement sur la {région de Liège} pour offrir des {services SEO} sur-mesure. Nos {experts} sont prêts à optimiser votre {présence en ligne localement}."
+        },
+        {
+          "type": "text",
+          "text": "Vous êtes à {Liège} et souhaitez améliorer votre {visibilité sur internet} ? Contactez-nous dès maintenant. Remplissez simplement notre {formulaire en ligne} et nous vous assisterons dans l'{optimisation SEO} de votre {site web}."
+        }
+      ],
+      "level": 0,
+      "bottomgap": 0,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "map",
+      "province": "Liège",
+      "country": "Province de Namur",
+      "city": "Liège"
+    },
+    {
+      "type": "cta",
+      "cta": "Boostez mon trafic",
+      "href": "ref"
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Tout savoir sur l'Optimisation SEO en Province de Namur : Vos Questions, Nos Réponses",
+      "headinglevel": 2,
+      "content": "",
+      "textjustification": "Left"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Pourquoi choisir une agence SEO située en Province de Namur ? ",
+      "headinglevel": 3,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Choisir une agence SEO en Province de Namur offre un avantage considérable : une compréhension profonde du marché local. Notre équipe maîtrise les spécificités du référencement adapté au contexte belge, permettant d'optimiser efficacement votre présence en ligne. En collaborant avec nous, vous bénéficiez d'une stratégie sur-mesure qui cible précisément votre clientèle potentielle en Province de Namur, augmentant ainsi votre visibilité et vos opportunités commerciales. Remplissez notre formulaire pour un accompagnement personnalisé sans délai."
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "level": 0,
+      "bottomgap": 25,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": " Quels sont les avantages de l'optimisation SEO pour mon entreprise ? ",
+      "headinglevel": 3,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "L'optimisation SEO offre de nombreux avantages cruciaux pour votre entreprise en Province de Namur. En améliorant le référencement de votre site web, vous augmentez sa visibilité sur Google, attirant ainsi plus de trafic qualifié. Cela se traduit par une augmentation potentielle de vos ventes et une amélioration de votre notoriété en ligne. En remplissant simplement notre formulaire, nous vous aiderons à hisser votre entreprise au sommet des résultats de recherche, optimisant ainsi votre retour sur investissement."
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "level": 0,
+      "bottomgap": 25,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": " Comment se déroule le processus après avoir rempli le formulaire sur votre site ? ",
+      "headinglevel": 3,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Après avoir rempli notre formulaire en ligne, notre équipe d'experts en optimisation SEO en Province de Namur vous contactera rapidement. Nous discuterons de vos besoins spécifiques et élaborerons une stratégie personnalisée pour améliorer le référencement de votre site. En nous choisissant, vous assurez une visibilité accrue et un succès durable sur le web."
+        }
+      ],
+      "level": 0,
+      "bottomgap": 25,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": " Quels résultats puis-je attendre de vos services de SEO ? ",
+      "headinglevel": 3,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Avec nos services SEO en Province de Namur, attendez-vous à une nette amélioration de votre visibilité en ligne. Nous vous garantissons une augmentation significative du trafic sur votre site, une meilleure position dans les résultats de recherche, et par conséquent, un accroissement de vos prospects et de vos ventes. Remplissez simplement notre formulaire pour que nous puissions analyser vos besoins et débuter notre collaboration en vue de propulser votre entreprise au sommet."
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "level": 0,
+      "bottomgap": 25,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": " Comment votre service se distingue-t-il des autres options disponibles ? ",
+      "headinglevel": 3,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Notre entreprise, basée en Province de Namur, se distingue par une expertise locale approfondie en SEO, essentielle pour cibler spécifiquement le marché belge. Nous offrons un service personnalisé : dès que vous remplissez notre formulaire, nous vous contactons pour élaborer une stratégie sur-mesure. Choisissez-nous pour des résultats visibles et rapides."
+        }
+      ],
+      "level": 0,
+      "bottomgap": 25,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "paragraph",
+      "heading": " Quelles garanties offrez-vous sur l'amélioration du référencement de mon site web ?",
+      "headinglevel": 3,
+      "icon": "",
+      "paragraphcontent": [
+        {
+          "type": "text",
+          "text": "Nous sommes conscients que la garantie d'une amélioration tangible du référencement est cruciale pour nos clients en Province de Namur. C'est pourquoi nous offrons une engagement clair : si après trois mois de collaboration et l'application de nos stratégies SEO optimisées, vous ne constatez pas une amélioration significative de votre positionnement, nous proposons une analyse complémentaire gratuite. Laissez-nous optimiser votre présence en ligne et atteindre de nouveaux sommets ! Remplissez notre formulaire pour commencer."
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ],
+      "level": 0,
+      "bottomgap": 50,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Left"
+      }
+    },
+    {
+      "type": "promptresponseheader",
+      "heading": "Optimisez votre référencement dès maintenant",
+      "content": "",
+      "textjustification": "Center",
+      "headinglevel": 2
+    },
+    {
+      "type": "paragraph",
+      "heading": "",
+      "headinglevel": 0,
+      "icon": "IMAGES\u000boid-icon.png",
+      "listjustification": "Center",
+      "paragraphcontent": [
+        {
+          "type": "list",
+          "elements": [
+            "Remplissez rapidement notre formulaire en ligne",
+            "Indiquez vos coordonnées pour une prise de contact",
+            "Lancez-vous et découvrez le potentiel de votre site web avec notre soutien spécialisé en Province de Namur"
+          ]
+        }
+      ],
+      "level": 0,
+      "bottomgap": 0,
+      "listscalefactor": 1.5,
+      "paragraphimage": {
+        "path": "",
+        "justification": "Right"
+      }
+    },
+    {
+      "type": "image",
+      "path": "IMAGES\\uxwing-svg-icon-editor (4).png"
+    },
+    {
+      "type": "form",
+      "heading": "Click the formm!",
+      "cta": "Give me your money!!",
+      "pages": [
+        {
+          "columns": [
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Street1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street"
+                },
+                {
+                  "type": "text",
+                  "name": "city1",
+                  "autocomplete": "city",
+                  "placeholder": "Votre ville / Province",
+                  "label": "Ville / Province"
+                },
+                {
+                  "type": "text",
+                  "name": "phonenumber1",
+                  "autocomplete": "tel",
+                  "placeholder": "Votre numéro de téléphonne",
+                  "label": "Téléphonne"
+                }
+              ]
+            },
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "housenumber1",
+                  "autocomplete": "housenumber",
+                  "placeholder": "Numéro de maison",
+                  "label": "Votre numéro de maison"
+                },
+                {
+                  "type": "text",
+                  "name": "zipcode1",
+                  "autocomplete": "postal-code",
+                  "placeholder": "Votre code postal",
+                  "label": "Code postal"
+                },
+                {
+                  "type": "text",
+                  "name": "email1",
+                  "autocomplete": "email",
+                  "placeholder": "Votre e-mail",
+                  "label": "E-mail"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Streetx1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streety1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streetz1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                }
+              ]
+            },
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Streeat1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streebt1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                },
+                {
+                  "type": "text",
+                  "name": "Streect1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "columns": [
+            {
+              "items": [
+                {
+                  "type": "text",
+                  "name": "Streetd1",
+                  "autocomplete": "street-address",
+                  "placeholder": "Your street address",
+                  "label": "Street page 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "logo": "allahwakbar.ir",
+    "content": "Optimisez votre référencement dès maintenant",
+    "copyright": "© 2024 – allahwakbar.ir",
+    "links": [
+      {
+        "text": "Mentions légales",
+        "href": "linkedin"
+      },
+      {
+        "text": "Déclaration de confidentialité (UE)",
+        "href": "twitter"
+      },
+      {
+        "text": "Politique de cookies (UE)",
+        "href": "twitter"
+      }
+    ],
+    "anchors": [
+      {
+        "text": "Optimisation SEO",
+        "href": "home"
+      },
+      {
+        "text": "Modèle rentable",
+        "href": "about"
+      },
+      {
+        "text": "Marché belge",
+        "href": "contact"
+      }
+    ]
+  },
+  "containers": [
+    {
+      "leftcolumnitems": [
+        0,
+        1,
+        2
+      ],
+      "rightcolumnitems": [
+        3
+      ]
+    },
+    {
+      "leftcolumnitems": [
+        6,
+        7
+      ],
+      "rightcolumnitems": [
+        8
+      ]
+    },
+    {
+      "leftcolumnitems": [
+        19
+      ],
+      "rightcolumnitems": [
+        20
+      ]
+    },
+    {
+      "leftcolumnitems": [
+        29,
+        30,
+        31
+      ],
+      "rightcolumnitems": [
+        32
+      ]
+    }
+  ],
+  "pageanchors": [
+    {
+      "id": "home",
+      "objectindex": 3
+    },
+    {
+      "id": "about",
+      "objectindex": 15
+    },
+    {
+      "id": "contact",
+      "objectindex": 20
+    }
+  ]
+}

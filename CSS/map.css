@@ -1,0 +1,10 @@
+.iframe-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    width: 100%;
+    border: 0px;
+    height: 350px;
+}
