@@ -1,8 +1,9 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('scanLevel1.php')
+    fetch('PHP/scanLevel1.php')
         .then(response => response.json())
         .then(data => {
-            const fileList = document.getElementById('file-list');
+            //const fileList = document.getElementById('file-list');
+            const fileList = document.querySelector('.websitenavigator');
             data.forEach(item => {
                 const link = document.createElement('a');
                 link.href = `Level1/${item}`;
